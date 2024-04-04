@@ -6,6 +6,7 @@
 #include <SFML/Graphics.hpp>
 #include <iostream>
 
+// Players bullet
 class Bullet {
 
 public:
